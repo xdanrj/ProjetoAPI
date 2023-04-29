@@ -1,0 +1,6 @@
+-bibliotecas pra instalar:
+-bootstrap
+-nodemon
+-express
+-mongoose
+-cors
